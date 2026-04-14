@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=hackerorwottt&label=Profile%20views&color=0e75b6&style=flat" alt="hackerorwottt" /> 
 </p>
 
-- 🔭 I’m currently working on **Final Year Project**
-- 🌱 I’m currently learning **Computer Science and Engineering**
+- 🔭 I’m currently working on **Skills**
+- 🌱 I’m currently pursuing **Computer Science and Engineering**
 - 💬 Ask me about **React, Vue.js**
 - 📫 How to reach me **abhijeetundalkar38@gmail.com**
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1BqkkiY2lwhfLb3UUePnRZYUCCViPwr7V/view?usp=drivesdk)
